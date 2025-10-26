@@ -1,0 +1,1 @@
+Face redaction using OpenCV for file handling and InsightFace for face detection
